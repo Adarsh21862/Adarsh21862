@@ -123,10 +123,10 @@ I enjoy converting **ideas → working systems**, whether it’s a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh21862&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh21862&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh21862&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh21862&layout=compact&hide_border=true&theme=dark" />
 </p>
-
 ---
 
 ## 🤝 Let’s Connect
