@@ -43,10 +43,10 @@ I enjoy converting **ideas → working systems**, whether it’s a
 ## 🧠 Technical Skills
 
 ### 💻 Programming Languages
-- C | C++ | Java (Core) | Python  
+-  Python | C | C++ 
 
 ### 🌐 Web & Backend
-- HTML5 | CSS3 | JavaScript  
+- HTML5 | CSS | JavaScript  
 - SQL | MongoDB  
 
 ### 🧩 Core Concepts
