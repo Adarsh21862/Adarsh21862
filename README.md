@@ -46,8 +46,10 @@ I enjoy converting **ideas → working systems**, whether it’s a
 -  Python | C | C++ 
 
 ### 🌐 Web & Backend
-- HTML5 | CSS | JavaScript  
-- SQL | MongoDB  
+- HTML | CSS | JavaScript  
+- MERN stack
+- Express.js | React | Node.j
+-  MongoDB  
 
 ### 🧩 Core Concepts
 - Object-Oriented Programming (OOP)  
